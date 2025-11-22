@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodePlayzTrustPass - Advanced Digital Certificate Verification System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -168,3 +169,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have helped shape this project
 - Inspired by the need for secure digital certificate verification in the modern world
+=======
+FULL FLOW NOW WORKING:
+
+1️⃣ Upload file
+⬇️
+2️⃣ Backend saves file + hash + metadata
+⬇️
+3️⃣ Backend returns certificateId
+⬇️
+4️⃣ Frontend redirects to /certificate/:id
+⬇️
+5️⃣ Details page shows everything beautifully
+⬇️
+6️⃣ Ready for ZKP module next
+>>>>>>> 16ee957681948df98370db4b6ba89bd44d7b0c02
